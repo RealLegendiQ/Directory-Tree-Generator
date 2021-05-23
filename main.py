@@ -1,6 +1,6 @@
-"""
-    Directory Tree Generator
-"""
+""" Made by N Purushotam Kumar (COMP A - AIT Pune) | github link : https://github.com/RealLegendiQ """
+""" Directory Tree Generator :  A program to generate a directory tree which allows users to see relationship between all of the files/directories in that tree 
+and to search for a file in a given directory"""
 
 from tkinter import *
 from tkinter import filedialog as tfd
