@@ -17,4 +17,4 @@ This is how it looks..
 
 
 Contributor: [N Purushotam Kumar](https://github.com/RealLegendiQ)                                                                                                                 
-This project was made for my 3rd semester's fundamental of data structure subject academic project.
+This project was made for my 3rd semester's academic project.
