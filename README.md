@@ -16,5 +16,5 @@ This is how it looks..
 <img src="https://user-images.githubusercontent.com/54796929/119269739-dc85f100-bc16-11eb-97fb-2db6a022ad31.png" width="700">
 
 
-Contributor: [N Purushotam Kumar](https://github.com/n-purushotam)                                                                                                                 
-This project was made for our 3rd semester's FDS academic project.
+Contributor: [N Purushotam Kumar](https://github.com/RealLegendiQ)                                                                                                                 
+This project was made for my 3rd semester's fundamental of data structure subject academic project.
